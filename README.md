@@ -11,7 +11,7 @@
 
 1. 了解python的for循环。
 1. 充分理解flask运行原理，独立完成了python颜色选择器小项目并添加log文件记录日志。
-- 套娃一个小链接http://mm3337858677.pythonanywhere.com/
+- 套娃一个小链接 [颜色选择器](http://mm3337858677.pythonanywhere.com/)
 
 ##### 其他小技能：
 1. 会熟练使用BaiDu、Bing等检索工具
